@@ -37,8 +37,5 @@ public class OpenPanel : MonoBehaviour
                 return;
             }
         }
-
-
-
     }
 }
